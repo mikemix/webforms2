@@ -1,0 +1,17 @@
+{
+  "name": "webforms2",
+  "homepage": "https://github.com/westonruter/webforms2",
+  "description": "Bower port of GitHub's westonruter/webforms2",
+  "main": "dist/webforms2.js",
+  "keywords": [
+    "form",
+    "validator",
+    "validation",
+    "html5",
+    "ie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
